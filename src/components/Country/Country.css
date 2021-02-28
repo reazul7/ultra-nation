@@ -1,0 +1,24 @@
+.country-area span{
+    color:lightblue;
+    font-size: 30px;
+}
+.country-area{
+    border: 1px solid red;
+    width:50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.country-area h4{
+    display: inline-block;
+    padding-right: 20px;
+    color: lightgrey
+}
+img{
+    width: 240px;
+    display: inline-block;
+}
+div{
+    margin: 0 auto;
+    padding: 0;
+}
